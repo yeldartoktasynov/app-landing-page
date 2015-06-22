@@ -1,0 +1,11 @@
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20150619-5083-17dgm92.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling posix-spawn.c
+linking shared-object posix_spawn_ext.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20150619-5083-qjdwkp
