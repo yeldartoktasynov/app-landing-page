@@ -8,7 +8,7 @@ app:
   # an avatar or logo (optional)
   logo: "/images/logo.png"
   # author will appear under the avatar (optional)
-  author: "Название эппа"
+  author: "inDent"
   # tagline will appear under the title (optional)
   tagline: "Короткое описание эппа (одно предложение)."
   # if include_content is true, the contents of the content.html include will be
