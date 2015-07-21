@@ -1,6 +1,5 @@
 # general configuration
 url: http://example.com
-baseurl: '/app-landing-page'
 exclude: [vendor]
 
 # app configuration
