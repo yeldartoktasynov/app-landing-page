@@ -10,7 +10,7 @@ app:
   # author will appear under the avatar (optional)
   author: "inDent"
   # tagline will appear under the title (optional)
-  tagline: "Короткое описание эппа (одно предложение)."
+  tagline: "Marketplace for dental clinics"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
